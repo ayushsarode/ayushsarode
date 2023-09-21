@@ -54,9 +54,8 @@
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsarode&theme=algolia" alt="Streak Stat"/>
 </p>
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<!-- ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  -->
 
 ---
 - 📩 Contact with me via mail **ayushsarode777@gmail.com**
