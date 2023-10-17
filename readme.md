@@ -18,7 +18,7 @@
 ## 👨‍💻 About Me
 <ul>
 - In my first year of college, I am wholeheartedly dedicated to open-source contributions. <br>
-- My current focus includes learning ReactJS for web development <br>
+- My current focus includes learning ReactJS and NodeJS for web development <br>
 - Delving into Java for mastering data structures and algorithms. <br>
 - I firmly believe in the philosophy of "Learning in Public," actively sharing my knowledge and progress with the community. 
 </ul>
