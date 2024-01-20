@@ -63,7 +63,3 @@
 ---
 - 📩 Contact with me via mail **ayushsarode777@gmail.com**
 
-[![An image of @ayushsarode's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayushsarode)](https://holopin.io/@ayushsarode)
-
-
-
