@@ -1,4 +1,3 @@
-![Ayush Sarodey's card name](https://cardivo.vercel.app/api?name=Ayush%20Sarodey&description=Hey%20there%20%F0%9F%91%8B,%20I%27m%20an%20open%20source%20enthusiast%20and%20%20passionate%20web%20dev&image=https://avatars.githubusercontent.com/u/33148052?v=4&backgroundColor=%23ecf0f1&instagram=ayush_sarode07&linkedin=Ayush%20Sarodey&github=ayushsarode&twitter=AyushSarode07&pattern=leaf&colorPattern=%23eaeaea)
 
 [![](https://visitcount.itsvg.in/api?id=AyushSarode&icon=0&color=0)](https://visitcount.itsvg.in)
 
