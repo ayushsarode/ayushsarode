@@ -36,6 +36,7 @@
 ![EXPRESS](https://img.shields.io/badge/-EXPRESS.JS-%23404d59?style=flat-square&logo=express&logoColor=%2361DAFB)&nbsp;
 ![MARKDOWN](https://img.shields.io/badge/-Markdown-%23000000?style=flat-square&logo=MARKDOWN&logoColor=white)&nbsp;
 ![NODE.JS](https://img.shields.io/badge/-node.js-6DA55F?style=flat-square&logo=Node.js&logoColor=white)&nbsp;
+![TYPESCRIPT](https://img.shields.io/badge/-typescript-2D79C7?style=flat-square&logo=typescript&logoColor=white)&nbsp;
 
 ### Libraries & Framework :
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)&nbsp;
