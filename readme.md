@@ -1,55 +1,53 @@
 
 [![](https://visitcount.itsvg.in/api?id=AyushSarode&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Let's Connect
-<div id="badges">
-  <a href="https://www.linkedin.com/in/ayush-sarodey-24a807272/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/AyushSarode07">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a> <br>
-
-</div>
-
-
-
-## 👨‍💻 About Me
+# Hey,👋 My name is Ayush Sarodey 
 <ul>
-- My current focus includes learning nodejs and monogDB for web development <br>
+- My currently learning MERN Stack <br>
 - Delving into Java for mastering data structures and algorithms. <br>
-- I firmly believe in the philosophy of "Learning in Public," actively sharing my knowledge and progress with the community. 
+- Actively sharing my knowledge and progress with the community. 
 </ul>
 
 
 
+## Let's Connect
+<div id="badges">
+  <a href="https://www.linkedin.com/in/ayush-sarodey-24a807272/">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a> &nbsp
+  <a href="https://twitter.com/AyushSarode07">
+		<img src="https://img.shields.io/badge/X(TWITTER)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+	</a>
+ <a href="https://dev.to/ayushsarode">
+		<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
+	</a><br>
+
+</div>
 
 ## 💻 Tech Stack:
 
 
-### Language :
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23404d59?style=flat-square&logo=javascript) &nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)&nbsp;
-![EXPRESS](https://img.shields.io/badge/-EXPRESS.JS-%23404d59?style=flat-square&logo=express&logoColor=%2361DAFB)&nbsp;
-![MARKDOWN](https://img.shields.io/badge/-Markdown-%23000000?style=flat-square&logo=MARKDOWN&logoColor=white)&nbsp;
-![NODE.JS](https://img.shields.io/badge/-node.js-6DA55F?style=flat-square&logo=Node.js&logoColor=white)&nbsp;
-![MONGODB](https://img.shields.io/badge/-mongodb-469C45?style=flat-square&logo=mongodb&logoColor=white)&nbsp;
-![TYPESCRIPT](https://img.shields.io/badge/-typescript-2D79C7?style=flat-square&logo=typescript&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=openjdk) &nbsp;
+### 🧑🏻‍💻 Languages :
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![EXPRESSJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![NODEJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 ### Libraries & Framework :
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=TailwindCSS)&nbsp;
+![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TAILWINDCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-
-### DevOps & Cloud Tools:
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)&nbsp;
-<a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>&nbsp;
-<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>&nbsp;
-<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman%20-E25825.svg?logo=postman&logoColor=white"></a>&nbsp;
+### ⚡️ Tools & Platforms:
+![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)
+![POSTMAN](https://img.shields.io/badge/Postman-E25825?style=for-the-badge&logo=postman&logoColor=white)
+![VERCEL](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 
 # 📊 GitHub Stats:
