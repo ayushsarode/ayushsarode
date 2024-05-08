@@ -1,9 +1,8 @@
 
-[![](https://visitcount.itsvg.in/api?id=AyushSarode&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # Hey,👋 My name is Ayush Sarodey 
 <ul>
-- My currently learning MERN Stack <br>
+- I'm currently learning MERN Stack <br>
 - Delving into Java for mastering data structures and algorithms. <br>
 - Actively sharing my knowledge and progress with the community. 
 </ul>
@@ -54,12 +53,12 @@
 
 <p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayushsarode&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true" style="max-width:100%;">
 <!-- <img style="margin-left=20px;" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsarode&amp;theme=algolia" style="max-width:100%;"> <br> //35.95 -->
-<img  height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsarode&theme=algolia" alt="Streak Stat"/>
+<img  height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsarode&theme=algolia" alt="Streak Stat"/>
 </p>
 
 <!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  -->
-
 ---
-- 📩 Contact with me via mail **ayushsarode777@gmail.com**
+📩 Contact with me via mail **ayushsarode777@gmail.com** </br> </br>
+ [![](https://visitcount.itsvg.in/api?id=AyushSarode&icon=0&color=0)](https://visitcount.itsvg.in)
 
