@@ -1,6 +1,6 @@
 
 
-# Hey,👋 My name is Ayush Sarodey 
+# Hey,👋 My name is Ayush  
 <ul>
 - I'm currently learning MERN Stack <br>
 - Delving into Java for mastering data structures and algorithms. <br>
