@@ -40,7 +40,9 @@
 ### Libraries & Framework :
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TAILWINDCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![BOOTSTRAP](https://img.shields.io/badge/Daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 
 ### ⚡️ Tools & Platforms:
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
