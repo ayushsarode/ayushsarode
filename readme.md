@@ -48,9 +48,10 @@
 
 
 ### ⚡️ Tools & Platforms:
+![DOCKER](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![POSTMAN](https://img.shields.io/badge/Postman-E25825?style=for-the-badge&logo=postman&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)
-![POSTMAN](https://img.shields.io/badge/Postman-E25825?style=for-the-badge&logo=postman&logoColor=white)
 ![VERCEL](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 
