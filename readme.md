@@ -23,6 +23,10 @@
 
 </div>
 
+## 📝 Blog Posts
+- [Understanding Monolithic and Microservices Architecture](https://medium.com/p/5470d04ce12f)
+
+
 ## 💻 Tech Stack:
 
 
