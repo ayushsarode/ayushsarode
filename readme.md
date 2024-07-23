@@ -25,6 +25,7 @@
 
 ## 📝 Blog Posts
 - [Understanding Monolithic and Microservices Architecture](https://medium.com/p/5470d04ce12f)
+- [JavaScript Callback Functions Explained: A Beginner's Guide](https://dev.to/ayushsarode/javascript-callback-functions-explained-a-beginners-guide-9ao)
 
 
 ## 💻 Tech Stack:
