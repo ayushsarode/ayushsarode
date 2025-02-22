@@ -1,6 +1,6 @@
 
 
-# Hey,👋 My name is Ayush  
+# Hey, I'm Ayush   
 <ul>
 - I'm currently learning NextJs and Golang<br>
 - Delving into Java for mastering data structures and algorithms. <br>
