@@ -2,7 +2,7 @@
 
 # Hey, I'm Ayush   
 <ul>
-- I'm currently learning NextJs and Golang<br>
+- I'm currently learning Golang and Cloud Technologies<br>
 - Delving into Java for mastering data structures and algorithms. <br>
 - Actively sharing my knowledge and progress with the community. 
 </ul>
