@@ -2,9 +2,10 @@
 
 # Hey, I'm Ayush   
 <ul>
-- I'm currently learning Golang and Cloud Technologies<br>
-- Delving into Java for mastering data structures and algorithms. <br>
+- I'm currently learning Golang and Cloud Technologies <br>
+- Exploring Kubernetes and contributing to open-source projects. <br>
 - Actively sharing my knowledge and progress with the community. 
+
 </ul>
 
 
