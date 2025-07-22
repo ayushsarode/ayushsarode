@@ -7,7 +7,7 @@
 - Actively sharing my knowledge and progress with the community. 
 
 </ul>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsarode&layout=donut)](https://github.com/ayushsarode/github-readme-stats)
+
 
 
 ## Let's Connect
