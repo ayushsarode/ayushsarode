@@ -65,11 +65,10 @@
 
 # 📊 GitHub Stats:
 
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayushsarode&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true" style="max-width:100%;">
+<p align="center">
 <!-- 	ts- 8.24 -->
 <!-- 	java- 11.26 -->
 <img  height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsarode&theme=algolia" alt="Streak Stat"/>
-<img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsarode&theme=algolia&show_icons=true" tyle="max-width:100% alt="Top language used"/>
 </p>
 
 <!-- ### ✍️ Random Dev Quote
