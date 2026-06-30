@@ -2,7 +2,7 @@
 
 # Hey, I'm Ayush   
 <ul>
-- I'm currently learning building cool Go projects <br>
+- I'm currently building cool Go projects <br>
 - Exploring Kubernetes and contributing to open-source projects. <br>
 - Actively sharing my knowledge and progress with the community. 
 
