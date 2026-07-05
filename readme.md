@@ -1,79 +1,87 @@
+# Hey, I'm Ayush 👋
 
+> **Backend Engineer** who enjoys building scalable software, contributing to **open source**, and continuously learning new technologies.
 
-# Hey, I'm Ayush   
-<ul>
-- I'm currently building cool Go projects <br>
-- Exploring Kubernetes and contributing to open-source projects. <br>
-- Actively sharing my knowledge and progress with the community. 
+*  Building backend applications and developer tools in Go
+*  Learning Kubernetes from the inside out
+*  Interested in distributed systems, cloud infrastructure, and developer experience
+*  Contributing to open-source projects and the CNCF ecosystem
+*  Sharing what I learn through technical blogs and content
 
-</ul>
+---
 
+## 🌐 Let's Connect
 
-
-## Let's Connect
-<div id="badges">
+<p>
   <a href="https://www.linkedin.com/in/ayush-sarodey-24a807272/">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a> &nbsp
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
   <a href="https://twitter.com/AyushSarode07">
-		<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-	</a>
- <a href="https://dev.to/ayushsarode">
-		<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
-	</a><br>
-
-</div>
-
-## 📝 Blog Posts
-- [Understanding Monolithic and Microservices Architecture](https://medium.com/p/5470d04ce12f)
-- [JavaScript Callback Functions Explained: A Beginner's Guide](https://dev.to/ayushsarode/javascript-callback-functions-explained-a-beginners-guide-9ao)
-
-
-## 💻 Tech Stack:
-
-
-### 🧑🏻‍💻 Languages :
-![GO](https://img.shields.io/badge/go-%2300ADD8?style=for-the-badge&logo=go&logoColor=white)
-![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![NODEJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
-
-### Libraries & Framework :
-![NEXTJS](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=%white)
-![TAILWINDCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![DAISYUI](https://img.shields.io/badge/Daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
-![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-
-### ⚡️ Tools & Platforms:
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![DOCKER](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Prometheus](https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)
-![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![POSTMAN](https://img.shields.io/badge/Postman-E25825?style=for-the-badge&logo=postman&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)
-![VERCEL](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-
-# 📊 GitHub Stats:
-
-<p align="center">
-<!-- 	ts- 8.24 -->
-<!-- 	java- 11.26 -->
-<img  height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsarode&theme=algolia" alt="Streak Stat"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="https://dev.to/ayushsarode">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
+  </a>
 </p>
 
-<!-- ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  -->
 ---
-📩 Contact with me via mail **ayushsarode777@gmail.com** </br> </br>
- [![](https://visitcount.itsvg.in/api?id=AyushSarode&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## ✍️ Latest Articles
+
+* 🚀 [Deploy Your Go App to GKE in 15 Minutes: A Developer's Guide](https://medium.com/@ayushsarode777/deploy-your-go-app-to-gke-in-15-minutes-a-developers-guide-2ad8b0a023f2)
+* 🏗️ [Understanding Monolithic and Microservices Architecture](https://medium.com/p/5470d04ce12f)
+* 📚 [JavaScript Callback Functions Explained: A Beginner's Guide](https://dev.to/ayushsarode/javascript-callback-functions-explained-a-beginners-guide-9ao)
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node.js\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
+### Cloud & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge\&logo=terraform\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=FF9900)
+![GitHub\_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge\&logo=prometheus\&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge\&logo=grafana\&logoColor=orange)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge\&logo=git\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge\&logo=neovim\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-E25825?style=for-the-badge\&logo=postman\&logoColor=white)
+![VS\_Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ayushsarode&show_icons=true&theme=algolia"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsarode&layout=compact&theme=algolia"/>
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsarode&theme=algolia"/>
+</p>
+
+---
+
+## 📫 Contact
+
+📧 **[ayushsarode777@gmail.com](mailto:ayushsarode777@gmail.com)**
