@@ -3,9 +3,8 @@
 > **Backend Engineer** who enjoys building scalable software, contributing to **open source**, and continuously learning new technologies.
 
 *  Building backend applications and developer tools in Go
-*  Learning Kubernetes from the inside out
 *  Interested in distributed systems, cloud infrastructure, and developer experience
-*  Contributing to open-source projects and the CNCF ecosystem
+*  Contributing to open-source projects 
 *  Sharing what I learn through technical blogs and content
 
 ---
